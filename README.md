@@ -6,7 +6,7 @@ This project presents an interactive chart visualizing total mileage tracked via
 
 Click below to view the chart:
 
-👉 [View Chart](https://tzagent.github.io/garmin-mileage-chart/total_mileage_by_month_interactive.html)
+👉 [View Chart](https://tzagent.github.io/garminviz/total_mileage_by_month_interactive.html)
 
 - 🟦 Hover over any bar to see exact mileage
 - 🖱 Click on a bar for detailed tooltips
